@@ -1,0 +1,3 @@
+sh run
+sh version
+sh int desc
