@@ -1,2 +1,0 @@
-LabSwitch1 172.18.0.193
-LabSwitch2 172.18.0.191
